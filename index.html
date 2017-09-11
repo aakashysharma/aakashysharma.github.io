@@ -15,15 +15,15 @@
 	<style>
 		* { padding: 0; margin: 0; }
 		body { background-color: #333; }
-		p { color: #fff; font-family: Helvetica; font-size: 16px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; }
-		a { color: #fff; font-weight: bold; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.3); }
+		p { color: honeydew; font-family: Helvetica; font-size: 16px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; }
+		a { color: grey; font-weight: bold; text-decoration: none; border-bottom: 1px solid rgba(23,167,255,0.3); }
 		a:hover { color: #990000; border-bottom: 1px solid rgba(255,255,255,1); }
-		#monogram { width: 360px; padding: 50px 0 0 0; margin: 0 auto 0 50px; }
+		#monogram { width: 360px; padding: 50px 0 0 0; margin: 20px 50px 0 auto !important; }
 		#about { width: 360px; padding: 0 0 0 150px; margin: -35px 600px 0 auto !important; }
 		@media (max-width: 767px) {
 			#monogram { position: relative; width: auto; padding: 20px; margin: 0; }
 			#about { position: relative; width: auto; padding: 20px; margin: 0 !important; }
-			background-image { opacity: 0.2; }
+			background-image { opacity: 0.1; }
 		}
 	</style>
 </head>	
@@ -37,10 +37,11 @@
 
 <!-- swap out for information about yourself -->
 <div id="monogram">
-	<p>Aakash Sharma is a PhD candidate at <a href="https://uit.no/">UiT The Arctic University of Tromsø</a>, Norway. His research interests include distributed systems, data analytics and privacy preserving technologies. </p>
+	<p>Aakash Sharma is a PhD candidate at <a href="https://uit.no/">UiT The Arctic University of Norway</a>, Tromsø, Norway. His research interests include distributed systems, data analytics and privacy preserving technologies. </p>
+	<br>
 	<p>He holds a MS in Distributed Software Systems (2017) from the <a href="https://www.informatik.tu-darmstadt.de/en/">Department of Computer Science</a> at <a href="http://www.tu-darmstadt.de/">Technische Universität Darmstadt</a> (TU Darmstadt), Germany. Prior to his Master’s degree, he worked in different roles at <a href="http://medialabasia.in/">Media Lab Asia</a>, <a href="https://ibm.com/in/isl/">IBM Software Labs</a> and <a href="https://www.persistent.com/">Persistent Systems Ltd</a>. </p>
-
-	<p>He can be reached as firstname [dot] lastname [at] uit [dot] no. He currently lives in Tromso, Norway.</p> 
+	<br>
+	<p>He can be reached at firstname [dot] lastname [at] uit [dot] no. He currently lives in Tromso, Norway.</p> 
 </div>
 
 <!--include jquery & backstretch-->
@@ -50,7 +51,7 @@
 $(function(){
      $(window).resize(function(){
          if($(this).width() >= 767){
-             $.backstretch("as_bg.jpg", {speed: 150});
+             $.backstretch("ass_bg.jpg", {speed: 150});
          }
       })
       .resize();//trigger resize on page load
