@@ -16,8 +16,8 @@ France
 
 Germany
 - Berlin, 2017
-- Dortmund, 2016
 - Darmstadt, 2014, 2015, 2016, 2017
+- Dortmund, 2016
 - Frankfurt, 2014, 2015, 2016, 2017
 - Hanover, 2017
 - Heidelberg, 2015, 2017
