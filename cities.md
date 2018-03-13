@@ -34,6 +34,7 @@ Norway
 
 Portugal
 - Lisbon, 2015
+- Porto, 2018
 
 Romannia
 - Timisoara, 2016
