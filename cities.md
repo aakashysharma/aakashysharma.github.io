@@ -25,6 +25,9 @@ Germany
 - Munich, 2015
 - Stuttgart, 2015
 
+Hungary
+- Budapest, 2015
+
 Netherlands
 - Amsterdam, 2016
 - Enkhuizen, 2016
@@ -38,9 +41,6 @@ Portugal
 
 Romannia
 - Timisoara, 2016
-
-Hungary
-- Budapest, 2015
 
 Slovakia
 - Bratislava, 2015
