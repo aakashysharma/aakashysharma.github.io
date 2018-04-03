@@ -36,7 +36,10 @@ Norway
 - Tromso, 2017, 2018
 
 Portugal
+- Aveiro, 2018
+- Braha, 2018
 - Lisbon, 2015
+- Pocinho, 2018
 - Porto, 2018
 
 Romannia
