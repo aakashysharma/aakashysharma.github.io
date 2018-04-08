@@ -37,7 +37,7 @@ Norway
 
 Portugal
 - Aveiro, 2018
-- Braha, 2018
+- Braga, 2018
 - Lisbon, 2015
 - Pocinho, 2018
 - Porto, 2018
