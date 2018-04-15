@@ -43,7 +43,7 @@ Netherlands
 - Enkhuizen, 2016
 
 Norway
-- Tromso, 2017, 2018
+- Tromsø, 2017, 2018
 
 Poland
 - Krakow, 2018
