@@ -1,17 +1,19 @@
 Austria
+- Salzburg, 2018
 - Vienna, 2015
 
 Bulgaria
 - Sofia, 2017
 
 Czech Republic
-- Prague, 2014
+- Prague, 2014, 2018
 
 Finland
 - Helsinki, 2015, 2017
 - Rovaniemi, 2017
 
 France
+- Nice, 2018
 - Paris, 2015
 
 Germany
@@ -22,18 +24,30 @@ Germany
 - Hanover, 2017
 - Heidelberg, 2015, 2017
 - Marburg, 2017
-- Munich, 2015
+- Munich, 2015, 2018
 - Stuttgart, 2015
 
 Hungary
 - Budapest, 2015
+
+Italy
+- Milan, 2018
+- Rome, 2018
+- Sicily, 2018
+
+Malta
+- Luqa, 2018
 
 Netherlands
 - Amsterdam, 2016
 - Enkhuizen, 2016
 
 Norway
-- Tromso, 2017, 2018
+- Tromsø, 2017, 2018
+
+Poland
+- Krakow, 2018
+- Warsaw, 2018
 
 Portugal
 - Aveiro, 2018
