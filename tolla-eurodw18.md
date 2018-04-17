@@ -1,5 +1,5 @@
 ### Tolla: A user-isolating data management system 
-_Author_: Aakash Sharma 
+_Author_: Aakash Sharma, Helge Hoff, Lars Brenna 
 
 _Affiliation_: UiT - The Arctic University of Norway
 
