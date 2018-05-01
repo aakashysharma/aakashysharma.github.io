@@ -50,10 +50,9 @@ Poland
 - Warsaw, 2018
 
 Portugal
-- Aveiro, 2018
 - Braga, 2018
+- Guimarães, 2018
 - Lisbon, 2015
-- Pocinho, 2018
 - Porto, 2018
 
 Romannia
