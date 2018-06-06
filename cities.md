@@ -34,9 +34,8 @@ Italy
 - Milan, 2018
 - Rome, 2018
 - Sicily, 2018
+- Syrcause, 2018
 
-Malta
-- Luqa, 2018
 
 Netherlands
 - Amsterdam, 2016
