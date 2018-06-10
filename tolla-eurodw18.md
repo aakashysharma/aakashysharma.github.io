@@ -1,5 +1,5 @@
 ### Tolla: A user-isolating data management system 
-_Author_: Aakash Sharma 
+_Author_: Aakash Sharma, Helge Hoff, Lars Brenna 
 
 _Affiliation_: UiT - The Arctic University of Norway
 
@@ -34,7 +34,7 @@ Tolla gives user total control over their data along with granular privacy contr
 14. Sangmin Lee, Edmund LWong, Deepak Goel, Mike Dahlin, and Vitaly Shmatikov. 2013. π Box: A Platform for Privacy-Preserving Apps.. In NSDI. 501–514.
 15. Chantal Lidynia, Philipp Brauner, and Martina Ziefle. 2017. A Step in the Right Direction–Understanding Privacy Concerns and Perceived Sensitivity of Fitness Trackers. In International Conference on Applied Human Factors and Ergonomics. Springer, 42–53.
 16. Byron Lowens, Vivian Genaro Motti, and Kelly Caine. 2017. Wearable Privacy: Skeletons in The Data Closet. In Healthcare Informatics (ICHI), 2017 IEEE International Conference on. IEEE, 295–304.
-17. Richard Mortier, Jianxin Zhao, Jon Crowcroft, LiangWang, Qi Li, Hamed Haddadi, Yousef Amar, Andy Crabtree, James Colley, Tom Lodge, et al. 2016. Personal Data Management with the Databox: What’s Inside the Box?. In Proceedings of the 2016 ACM Workshop on Cloud-Assisted Networking. ACM, 49–54.
+17. Richard Mortier, Jianxin Zhao, Jon Crowcroft, Liang Wang, Qi Li, Hamed Haddadi, Yousef Amar, Andy Crabtree, James Colley, Tom Lodge, et al. 2016. Personal Data Management with the Databox: What’s Inside the Box?. In Proceedings of the 2016 ACM Workshop on Cloud-Assisted Networking. ACM, 49–54.
 18. Zhan Qin, Jian Weng, Yong Cui, and Kui Ren. 2018. Privacy-Preserving Image Processing in the Cloud. IEEE Cloud Computing (2018).
 19. Amitesh Singh Rajput and Balasubramanian Raman. 2018. CryptoCT: towards privacy preserving color transfer and storage over cloud. Multimedia Tools and Applications (2018), 1–23.
 20. Ashwin L Rao and Eugene S Hong. 2015. Understanding depression and suicide in college athletes: emerging concepts and future directions. (2015).

@@ -34,9 +34,8 @@ Italy
 - Milan, 2018
 - Rome, 2018
 - Sicily, 2018
+- Syrcause, 2018
 
-Malta
-- Luqa, 2018
 
 Netherlands
 - Amsterdam, 2016
@@ -50,10 +49,9 @@ Poland
 - Warsaw, 2018
 
 Portugal
-- Aveiro, 2018
 - Braga, 2018
+- Guimarães, 2018
 - Lisbon, 2015
-- Pocinho, 2018
 - Porto, 2018
 
 Romannia
