@@ -18,14 +18,15 @@ France
 
 Germany
 - Berlin, 2017
-- Darmstadt, 2014, 2015, 2016, 2017
+- Darmstadt, 2014, 2015, 2016, 2017, 2019
 - Dortmund, 2016
-- Frankfurt, 2014, 2015, 2016, 2017
+- Frankfurt, 2014, 2015, 2016, 2017, 2018, 2019
 - Hanover, 2017
 - Heidelberg, 2015, 2017
 - Marburg, 2017
 - Munich, 2015, 2018
 - Stuttgart, 2015
+- Wiesbaden, 2018, 2019
 
 Hungary
 - Budapest, 2015
@@ -42,11 +43,16 @@ Netherlands
 - Enkhuizen, 2016
 
 Norway
+- Harstad, 2018
+- Narvik, 2018
 - Tromsø, 2017, 2018
 
+
 Poland
+- Chorzów, 2019
 - Krakow, 2018
-- Warsaw, 2018
+- Warsaw, 2018, 2019
+
 
 Portugal
 - Braga, 2018
