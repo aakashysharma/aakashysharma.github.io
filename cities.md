@@ -13,7 +13,6 @@ Finland
 - Rovaniemi, 2017
 
 France
-- Nice, 2018
 - Paris, 2015
 
 Germany
