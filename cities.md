@@ -74,3 +74,7 @@ Sweden
 Switzerland
 - Geroldswil, 2017
 - Zurich, 2015, 2017
+
+Tunisia
+- Tunis, 2019
+- Monastir, 2019
