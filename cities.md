@@ -42,9 +42,10 @@ Netherlands
 - Enkhuizen, 2016
 
 Norway
+- Alta, 2019
 - Harstad, 2018
 - Narvik, 2018
-- Tromsø, 2017, 2018
+- Tromsø, 2017, 2018, 2019
 
 
 Poland
@@ -74,3 +75,7 @@ Sweden
 Switzerland
 - Geroldswil, 2017
 - Zurich, 2015, 2017
+
+Tunisia
+- Tunis, 2019
+- Monastir, 2019
