@@ -1,5 +1,4 @@
 Austria
-- Salzburg, 2018
 - Vienna, 2015
 
 Bulgaria
@@ -78,4 +77,3 @@ Switzerland
 
 Tunisia
 - Tunis, 2019
-- Monastir, 2019
