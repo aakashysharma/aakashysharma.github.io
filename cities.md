@@ -7,15 +7,18 @@ Bulgaria
 Czech Republic
 - Prague, 2014, 2018
 
+Estonia
+- Tallinn, 2019
+
 Finland
-- Helsinki, 2015, 2017
+- Helsinki, 2015, 2017, 2019
 - Rovaniemi, 2017
 
 France
 - Paris, 2015
 
 Germany
-- Berlin, 2017
+- Berlin, 2017, 2019
 - Darmstadt, 2014, 2015, 2016, 2017, 2019
 - Dortmund, 2016
 - Frankfurt, 2014, 2015, 2016, 2017, 2018, 2019
@@ -35,13 +38,17 @@ Italy
 - Sicily, 2018
 - Syrcause, 2018
 
+Latvia
+- Riga, 2019
+
+Lithuania
+- Vilnius, 2019
 
 Netherlands
 - Amsterdam, 2016
 - Enkhuizen, 2016
 
 Norway
-- Alta, 2019
 - Harstad, 2018
 - Narvik, 2018
 - Tromsø, 2017, 2018, 2019
@@ -51,7 +58,6 @@ Poland
 - Chorzów, 2019
 - Krakow, 2018
 - Warsaw, 2018, 2019
-
 
 Portugal
 - Braga, 2018
@@ -76,4 +82,6 @@ Switzerland
 - Zurich, 2015, 2017
 
 Tunisia
+- Monastir, 2019
+- Sousse, 2019
 - Tunis, 2019
