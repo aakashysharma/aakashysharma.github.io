@@ -9,6 +9,7 @@ Czech Republic
 
 Estonia
 - Tallinn, 2019
+- Valga, 2019
 
 Finland
 - Helsinki, 2015, 2017, 2019
@@ -40,8 +41,10 @@ Italy
 
 Latvia
 - Riga, 2019
+- Valka, 2019
 
 Lithuania
+- Kaunas, 2019
 - Vilnius, 2019
 
 Netherlands
@@ -55,9 +58,14 @@ Norway
 
 
 Poland
+- Bialystok, 2019
+- Bytom, 2019
 - Chorzów, 2019
+- Gliwice, 2019
+- Grodek, 2019
 - Krakow, 2018
 - Warsaw, 2018, 2019
+- Zabrze, 2019
 
 Portugal
 - Braga, 2018
