@@ -23,7 +23,7 @@ Germany
 - Darmstadt, 2014, 2015, 2016, 2017, 2019
 - Dortmund, 2016
 - Frankfurt, 2014, 2015, 2016, 2017, 2018, 2019
-- Hanover, 2017
+- Hannover, 2017
 - Heidelberg, 2015, 2017
 - Marburg, 2017
 - Munich, 2015, 2018
