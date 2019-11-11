@@ -54,6 +54,7 @@ Netherlands
 Norway
 - Harstad, 2018
 - Narvik, 2018
+- Oslo, 2019
 - Tromsø, 2017, 2018, 2019
 
 
