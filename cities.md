@@ -4,6 +4,13 @@ Austria
 Bulgaria
 - Sofia, 2017
 
+Costa Rica
+- Cartago, 2019
+- Cot, 2019
+- Orosi, 2019
+- Punta Arenas, 2019
+- San Jose, 2019
+
 Czech Republic
 - Prague, 2014, 2018
 
@@ -22,11 +29,11 @@ Germany
 - Berlin, 2017, 2019
 - Darmstadt, 2014, 2015, 2016, 2017, 2019
 - Dortmund, 2016
-- Frankfurt, 2014, 2015, 2016, 2017, 2018, 2019
+- Frankfurt, 2014, 2015, 2016, 2017, 2018, 2019, 2020
 - Hannover, 2017
 - Heidelberg, 2015, 2017
 - Marburg, 2017
-- Munich, 2015, 2018
+- Munich, 2015, 2018, 2019
 - Stuttgart, 2015
 - Wiesbaden, 2018, 2019
 
@@ -94,3 +101,9 @@ Tunisia
 - Monastir, 2019
 - Sousse, 2019
 - Tunis, 2019
+
+USA
+- Key West, 2020
+- Miami, 2019, 2020
+- Naples, 2020
+- Washington D.C., 2020
