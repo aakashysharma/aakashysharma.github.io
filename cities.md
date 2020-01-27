@@ -1,6 +1,9 @@
 Austria
 - Vienna, 2015
 
+Belgium 
+- Brussels, 2020
+
 Bulgaria
 - Sofia, 2017
 
@@ -62,7 +65,7 @@ Norway
 - Harstad, 2018
 - Narvik, 2018
 - Oslo, 2019
-- Tromsø, 2017, 2018, 2019
+- Tromsø, 2017, 2018, 2019, 2020
 
 
 Poland
@@ -89,6 +92,8 @@ Slovakia
 
 Spain
 - Alicante, 2017
+- Malaga, 2020
+- Seville, 2020
 
 Sweden
 - Pello, 2017
@@ -101,6 +106,9 @@ Tunisia
 - Monastir, 2019
 - Sousse, 2019
 - Tunis, 2019
+
+UK
+- London, 2020
 
 USA
 - Key West, 2020
