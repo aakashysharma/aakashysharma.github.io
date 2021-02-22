@@ -30,7 +30,7 @@ France
 
 Germany
 - Berlin, 2017, 2019
-- Darmstadt, 2014, 2015, 2016, 2017, 2019
+- Darmstadt, 2014, 2015, 2016, 2017, 2019, 2020
 - Dortmund, 2016
 - Frankfurt, 2014, 2015, 2016, 2017, 2018, 2019, 2020
 - Hannover, 2017
@@ -62,9 +62,13 @@ Netherlands
 - Enkhuizen, 2016
 
 Norway
+- Fjordgård, 2020
+- Finnsnes, 2020
+- Gryllefjord, 2020
 - Harstad, 2018
 - Narvik, 2018
 - Oslo, 2019
+- Senjahopen, 2020
 - Tromsø, 2017, 2018, 2019, 2020
 
 
