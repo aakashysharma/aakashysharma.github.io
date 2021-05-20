@@ -63,7 +63,7 @@ Netherlands
 
 Norway
 - Fjordgård, 2020, 2021
-- Finnsnes, 2020
+- Finnsnes, 2020, 2021
 - Gryllefjord, 2020
 - Harstad, 2018
 - Narvik, 2018
