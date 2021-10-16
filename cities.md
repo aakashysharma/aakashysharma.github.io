@@ -69,7 +69,9 @@ Norway
 - Narvik, 2018
 - Oslo, 2019
 - Senjahopen, 2020
+- Stavanger, 2021
 - Tromsø, 2017, 2018, 2019, 2020, 2021
+- Volda, 2021
 
 
 Poland
