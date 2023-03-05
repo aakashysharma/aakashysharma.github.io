@@ -20,7 +20,7 @@
 		a:hover { color: #990000; border-bottom: 1px solid rgba(255,255,255,1); }
 		#monogram { width: 360px; padding: 50px 0 0 0; margin: 20px 50px 0 auto !important; }
 		#about { width: 360px; padding: 0 0 0 150px; margin: -35px 600px 0 auto !important; }
-		@media (max-width: 767px) {
+		@media (max-width: 375px) {
 			#monogram { position: relative; width: auto; padding: 20px; margin: 0; }
 			#about { position: relative; width: auto; padding: 20px; margin: 0 !important; }
 			background-image { opacity: 0.1; }
@@ -53,7 +53,7 @@
 <script type="text/javascript">
 $(function(){
      $(window).resize(function(){
-         if($(this).width() >= 767){
+         if($(this).width() >= 375){
              $.backstretch("bg_sea.jpeg", {speed: 150});
          }
       })
